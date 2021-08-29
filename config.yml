@@ -1,0 +1,45 @@
+                                     ######################################
+                                     # Plugin Desenvolvido Por iRyaaNziN, #
+                                     # Quer Um Plugin? Me Add No Skype,   #
+                                     # Ex De Mensagem: Olá iRyan Desejo , #
+                                     # Um Plugin De KitPvP.               #
+                                     # Meu Skype: ryan.yokito2            #
+                                     ######################################
+
+
+#Nome Do Servidor#
+NomeServer: '&ciRyKits'
+#Tag Do Bc/BroadCasta ou Aviso#
+NomeAviso: '&f[&6iRyKits&f]'
+#Mensagen do AutoMenssager#
+MensagemAutomatica1: '&aMsg Aqui!'
+MensagemAutomatica2: '&bMsg Aqui!'
+MensagemAutomatica3: '&cMsg Aqui!'
+MensagemAutomatica4: '&dMsg Aqui!'
+#Msg Reseto Kit#
+Resetkit: '&aVocê resetou seu kit !'
+#Motd Do Servidor#
+Motd: '&aNomeDoServer'
+#Kill Msg#
+KillMsg: '&cSe Mate Com /suicide'
+#Morreu Msg#
+SuicideMsg: '&cVocê Morreu'
+#Nick Do Player Para Não Ser Crashado#
+NomeNaoCrashar1: ''
+NomeNaoCrashar2: ''
+NomeNaoCrashar3: ''
+#Msg Player Crashado#
+MsgCrashado: '&cOpa alguem vai cair...'
+#Msg Sem permissão para usar o comando crash#
+MsgSemPermCrash: ' &e>> §cSem Permissão!'
+#Msg Player Não Pode Ser Crashado#
+MsgNaoCrashado: '&cOpa este jogador não pode ser crashado'
+#Msg Player Falando Muito Rapido#
+MsgAntiSpam: '&cVocê não pode falar muito rapido acalme!'
+MsgClear: '&eInventario Limpo!'
+MsgTpall: '&6Teleportando...'
+MsgFechandoServer: '&c&lOPS: &6&lServidor Fechando/Reiniciando'
+StatusName: '&2Status'
+MsgFormulario: '&2Entrem em nosso site: &3www.formulario.com'
+NoCommand: '&cEste comando não existe !'
+Msg_Banido: '&cVocê esta banido do servidor contate um staff!'
